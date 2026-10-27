@@ -47,4 +47,8 @@ An IoT-based smart room and garage system built with Cisco Packet Tracer. It use
 4. Start the simulation and test the motion and smoke sensors.
 5. Verify the garage door, windows, fan, alarms, and monitoring setup.
 
-## Project Screenshot
+## Project Screenshot and Demo
+
+<img src="smart_room.png" alt="Screenshot" width="1000">
+
+https://github.com/user-attachments/assets/3fea368b-a186-4ae7-9bd9-aaa4eef0245c
